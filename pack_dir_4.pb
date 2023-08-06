@@ -589,7 +589,7 @@ End 0
 ; Folding = ---
 ; Optimizer
 ; Executable = packdir.exe
-; CommandLine = -i "C:\Users\Markus Müller\OneDrive\Programmierung\PureBasic\001.bmp" -n
+; CommandLine = 
 ; Compiler = PureBasic 6.00 LTS - C Backend (Windows - x64)
 ; EnablePurifier
 ; EnableCompileCount = 76
